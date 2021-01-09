@@ -8,6 +8,8 @@ namespace Register_LogIn_System
         static string password;
         static void Main(string[] args)
         {
+            Register();
+            Login();
             
         }
 
